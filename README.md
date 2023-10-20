@@ -1,5 +1,21 @@
 # 💫 About Me:
-Soy estudiante de la universidad de Colima, Con la carrera de Ingeniería en Software<br><br>Tengo experiencia en varios proyectos aplicados en la vida real<br>
+
+👋 Hello, I'm Carlos Alberto Calixto Engelberger!
+
+🌮 HI iam from Mexico! I'm a 22-year-old aspiring software developer with a passion for all things web and mobile. While I may be a "young junior" in the tech world, I'm armed with curiosity, determination, and a voracious appetite for learning.
+
+🚀 My journey in software development has just begun, and I'm excited to make my mark in this ever-evolving industry. I thrive on teamwork and collaboration, as I believe that the best solutions are born when brilliant minds come together. When I'm not immersed in code, you'll find me sharing my knowledge and experiences with others, because sharing is caring, right? 😄
+
+📱 Whether it's crafting responsive web designs or building mobile apps, I'm all in. The thrill of bringing ideas to life through lines of code and the endless possibilities of technology keep me hooked. I'm on a quest to become the tech wizard I've always dreamed of, and every day is an opportunity to level up.
+
+🌟 If you're looking for a motivated, adaptable, and team-friendly junior developer who's ready to embrace challenges and make things happen, let's connect and create some digital magic! Feel free to reach out – I'm always up for a good tech chat or a virtual coffee. ☕
+
+🌎 Together, let's turn ideas into innovation. The future is digital, and I'm excited to be a part of it!
+
+Happy coding! 🖥️💡
+
+
+<br>
 
 
 # 💻 Tech Stack:
